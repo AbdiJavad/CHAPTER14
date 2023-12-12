@@ -4,7 +4,6 @@ import javafx.scene.control.Button;
 import javafx.stage.Stage;
 
 public class MultipleStageDemo extends Application {
-    
     @Override
     public void start(Stage primaryStage) {
 
